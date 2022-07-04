@@ -20,7 +20,7 @@ const data = [
     id: 3,
     title: "Personal Portfolio App",
     PIC: '/portfolio.png',
-    github: "https://github.com",
+    github: "https://github.com/Nitishz/Personal-Portfolio",
     demo: "https://github.com",
   },
   {
